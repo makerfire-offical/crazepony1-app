@@ -486,7 +486,6 @@ public class BluetoothLeService extends Service
 
                         MyThread myThread = new MyThread();
                         myThread.start();
-
 //                        byte[] bytes = new byte[1];
 //                        bytes[0] = (byte) 255;
 //                        LogUtil.LOGI("写出LED数据...");

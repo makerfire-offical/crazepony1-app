@@ -483,7 +483,6 @@ public class BluetoothLeService extends Service
                     {
                         mSendLedSetBit7Characteristic = gattCharacteristic;
 
-
                         MyThread myThread = new MyThread();
                         myThread.start();
 //                        byte[] bytes = new byte[1];

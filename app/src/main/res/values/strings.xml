@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cancel">取消</string>
+    <string name="app_name">Crazepony</string>
+    <string name="yaw">Yaw:</string>
+    <string name="throttle">Throttle:</string>
+    <string name="pitch">Pitch:</string>
+    <string name="roll">Roll:</string>
+    <string name="Connect">连接</string>
+    <string name="Disconnect">断开</string>
+    <string name="Unarm">解锁</string>
+    <string name="Arm">上锁</string>
+    <string name="Launch">起飞</string>
+    <string name="Land">降落</string>
+    <string name="Headfree">无头</string>
+    <string name="Headstrict">有头</string>
+    <string name="Altihold">定高</string>
+    <string name="IMUCali">校准</string>
+
+    <string name="DisconnectToast">未连接设备</string>
+    <string name="ConnectFailToast">连接失败！</string>
+    <string name="ConnectSuccessToast">连接蓝牙成功！</string>
+    <string name="OpenBT">打开蓝牙中...</string>
+
+    <string name="SelectBTDevice">选取蓝牙设备</string>
+    <string name="UnpairBT">未配对设备</string>
+    <string name="ble_not_supported">BLE不支持！</string>
+    <string name="unknown_device">未知设备</string>
+
+    <string name="menu_scan">扫描</string>
+    <string name="menu_stop">停止</string>
+
+    <string name="Search">搜索</string>
+    <string name="Searching">搜索中……</string>
+
+
+    <string name="BLE_list">BLE列表</string>
+
+       
+</resources>
+

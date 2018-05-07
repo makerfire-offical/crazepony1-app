@@ -499,11 +499,6 @@ public class BluetoothLeService extends Service
                     if (uuidChara.equalsIgnoreCase(UUID_LED_BIT7.toString()))
                     {
                         mSendLedBit7Characteristic = gattCharacteristic;
-
-//                            byte[] bytes = new byte[1];
-//                            bytes[0] = (byte) 255;
-//                            LogUtil.LOGI("写出LED数据...");
-//                            BluetoothLeService.writeCharacteristic(mSendLedBit7Characteristic, bytes);
                         MyThread2 myThread2 = new MyThread2();
                         myThread2.start();
                     } else
